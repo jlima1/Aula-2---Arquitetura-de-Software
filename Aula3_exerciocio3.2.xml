@@ -1,0 +1,5 @@
+<diagram program="umletino" version="14.2"><zoom_level>10</zoom_level><element><id>UMLDeployment</id><coordinates><x>140</x><y>50</y><w>270</w><h>140</h></coordinates><panel_attributes>&lt;&lt;SaudacaoServer&gt;&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>130</x><y>340</y><w>270</w><h>140</h></coordinates><panel_attributes>&lt;&lt;SaudacaoClient&gt;&gt;
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>150</x><y>90</y><w>240</w><h>90</h></coordinates><panel_attributes>symbol=component
+Java</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>150</x><y>380</y><w>230</w><h>90</h></coordinates><panel_attributes>symbol=component
+&lt;&lt;Navegador Web&gt;&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>250</x><y>180</y><w>50</w><h>190</h></coordinates><panel_attributes>lt=-
+Lan</panel_attributes><additional_attributes>10;10;10;170</additional_attributes></element></diagram>
